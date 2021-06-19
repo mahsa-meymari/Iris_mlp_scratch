@@ -1,2 +1,2 @@
-# Iris_Mlp_ScratchPython
-a mlp network coded without using any framework on Iris dataset
+# Iris_mlp_scratch
+A mlp network which is implemented from scratch without using AI frameworks on Iris dataset in Python
